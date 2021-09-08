@@ -1,0 +1,20 @@
+{
+  "name": "fileupload-graphql-to-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.3.0",
+    "aws-sdk": "^2.976.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "graphql-upload": "^12.0.0",
+    "uuid": "^8.3.2"
+  }
+}
